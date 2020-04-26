@@ -1,4 +1,4 @@
-package xyz.williamw.behaviorval.factory.basic;
+package xyz.williamw.creational.factory.basic;
 
 public class OperationSub extends Operation{
     @Override

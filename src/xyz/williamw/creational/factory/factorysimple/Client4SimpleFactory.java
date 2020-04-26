@@ -1,7 +1,7 @@
-package xyz.williamw.behaviorval.factory.factorysimple;
+package xyz.williamw.creational.factory.factorysimple;
 
-import xyz.williamw.behaviorval.factory.basic.Operation;
-import xyz.williamw.behaviorval.factory.basic.OperationFactory;
+import xyz.williamw.creational.factory.basic.Operation;
+import xyz.williamw.creational.factory.basic.OperationFactory;
 
 /**
  * @author Dr_King

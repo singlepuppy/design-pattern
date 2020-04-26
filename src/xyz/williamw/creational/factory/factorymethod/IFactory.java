@@ -1,6 +1,6 @@
-package xyz.williamw.behaviorval.factory.factorymethod;
+package xyz.williamw.creational.factory.factorymethod;
 
-import xyz.williamw.behaviorval.factory.basic.Operation;
+import xyz.williamw.creational.factory.basic.Operation;
 
 public interface IFactory {
     /**
